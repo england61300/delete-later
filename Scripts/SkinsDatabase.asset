@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0368dbc2bbca35044b5f9cac0b52d441, type: 3}
+  m_Name: SkinsDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SkinDatabase
+  playerSkins:
+  - skinName: White
+    sprite: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    owned: 1
+  - skinName: Red
+    sprite: {fileID: 21300000, guid: 1a2723ddf964e4565a408007ab387283, type: 3}
+    owned: 0
+  - skinName: Green
+    sprite: {fileID: 21300000, guid: 019b78fb10c81644e80230d8364517ca, type: 3}
+    owned: 0
+  - skinName: Blue
+    sprite: {fileID: 7482667652216324306, guid: 6066b29a6bf522b449c13fc58bf2b9b7, type: 3}
+    owned: 1
+  - skinName: Orange
+    sprite: {fileID: 21300000, guid: 6b3336592bcf2134abb33fc57225674a, type: 3}
+    owned: 0
+  - skinName: Purple
+    sprite: {fileID: -3915408873132609306, guid: a4122d9a72ee3594eb7a36ff29a13fa7, type: 3}
+    owned: 0
+  - skinName: Pink
+    sprite: {fileID: 21300000, guid: c27d31ae247be1341948925c2720a330, type: 3}
+    owned: 0
+  enemySkins:
+  - skinName: White
+    sprite: {fileID: 21300000, guid: 5e6d30e11573c22478e8ea437fb51e1a, type: 3}
+    owned: 0
+  - skinName: Red
+    sprite: {fileID: 21300000, guid: 2d7261d597abf884dbb36f9e026d9dbf, type: 3}
+    owned: 1
+  - skinName: Green
+    sprite: {fileID: 21300000, guid: 96aea05a190fd204ea116d5ad834fc3e, type: 3}
+    owned: 0
+  - skinName: Blue
+    sprite: {fileID: 21300000, guid: f41dcb485907ee04db434cde9d7593dc, type: 3}
+    owned: 0
+  - skinName: Orange
+    sprite: {fileID: 21300000, guid: 7b20bd7c1d6bf0a4c9eb3ffdd7bd421f, type: 3}
+    owned: 0
+  - skinName: Purple
+    sprite: {fileID: 21300000, guid: 4c69db43dbd474a2987be5807129b4cc, type: 3}
+    owned: 0
+  - skinName: Pink
+    sprite: {fileID: 21300000, guid: 7985eed980bbd5e4e930a40ca40e65d6, type: 3}
+    owned: 0

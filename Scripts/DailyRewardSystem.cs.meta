@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7db9ed65b9145374c99e37aac325ef9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - config: {fileID: 11400000, guid: 38ca904e48ed91c4189967510ddb8bde, type: 2}
+  - rewardInfoText: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - claimButton: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

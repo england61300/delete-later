@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001d3e002ee7cae48b8a9f6ea93eb635, type: 3}
+  m_Name: DailyRewardsConfig
+  m_EditorClassIdentifier: Assembly-CSharp::DailyRewardsConfig
+  rewards:
+  - name: Day 1
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 5
+  - name: Day 2
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 15
+  - name: Day 3
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 25
+  - name: Day 4
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 40
+  - name: Day 5
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 60
+  - name: Day 6
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 80
+  - name: Day 7
+    icon: {fileID: 21300000, guid: 8b83783dea58a794dab09a649cdab33d, type: 3}
+    amount: 100

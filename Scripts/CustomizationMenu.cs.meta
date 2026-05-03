@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b2498eabf3bee2340b7305dcac91cabf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTabButton: {instanceID: 0}
+  - enemyTabButton: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - equippedText: {instanceID: 0}
+  - playerPreview: {instanceID: 0}
+  - enemyPreview: {instanceID: 0}
+  - gridParent: {instanceID: 0}
+  - skinButtonPrefab: {fileID: 7375335294700691256, guid: ac469d24cc8dcdd4cb4dca910290182d, type: 3}
+  - skinDatabase: {fileID: 11400000, guid: 8ef87fd547362394f877655754cfc5d2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
